@@ -19,7 +19,7 @@ This comprehensive Exploratory Data Analysis (EDA) uncovers how Netflix strategi
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 | Category | Tools |
 |----------|-------|
